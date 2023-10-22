@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SixpWeather</string>
+    <string name="weather_matter_we_have_got_the_details">Weather Matter, We have got the details</string>
+    <string name="weather_matters">Weather Matters</string>
+    <string name="we_have_got_the_details">We have got the Details</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="conditions">Conditions</string>
+    <string name="Conditions">Condtitions\n\n</string>
+    <string name="sea">Sea</string>
+</resources>
